@@ -42,3 +42,9 @@ I am building a blueprint for my daughter to show that **work ethic is the ultim
 * ⚡ **Fun Fact:** I’m a parachutist and motorcycle enthusiast. A long-distance ride is the best way to clear the mind after a 12-hour troubleshooting session.
 
 ![](https://komarev.com/ghpvc/?username=BeyOfDomains0311&color=green)
+
+# Visual Counter
+![](https://komarev.com/ghpvc/?username=BeyOfDomains0311&color=green)
+
+# Detailed Tracker (HITS)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeyOfDomains0311&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/ )
