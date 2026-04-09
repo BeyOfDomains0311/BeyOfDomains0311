@@ -40,3 +40,5 @@ I am building a blueprint for my daughter to show that **work ethic is the ultim
 ### **📫 Connect with Me**
 * 🔭 **Status:** Active Duty USAF (Retiring 2027) | Seeking Offensive Security Skillbridge Opportunities, https://www.linkedin.com/in/hakeem-hurd-shabazz-bey-beyofdomains-291683305/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh6LJzfLWRTW13v0yTDwTsQ%3D%3D.
 * ⚡ **Fun Fact:** I’m a parachutist and motorcycle enthusiast. A long-distance ride is the best way to clear the mind after a 12-hour troubleshooting session.
+
+![](https://komarev.com/ghpvc/?username=BeyOfDomains0311&color=green)
